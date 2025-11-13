@@ -20,7 +20,7 @@ _Espacio organizado para documentar avances, reflexiones y productos de cada uni
 
 ## 📂 Unidad 1  
 _Por hacer_  
-## [Ir a la Unidad 1](unidad1.md)  
+## [Ir a la Unidad 1](Unidad1.md)  
 
 ---
 
