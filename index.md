@@ -19,7 +19,7 @@ _Espacio organizado para documentar avances, reflexiones y productos de cada uni
 ---
 
 ## 📂 Unidad 1  
-_Por hacer_  
+_Introduccion a la logica proposicional, tablas de verdad, leyes y sus reglas de inferencia_  
 ## [Ir a la Unidad 1](Unidad1.md)  
 
 ---
@@ -31,16 +31,6 @@ _Por ver._
 
 ## 📂 Unidad 3  
 _Por ver._  
-
----
-
-## 📝 Conclusiones  
-_Síntesis de aprendizajes, logros alcanzados y retos identificados durante el proceso._  
-
----
-
-## 📚 Referencias  
-_Las referencias que me ayudaron a lo largo de este portafolio, se encuentran aquí_ 
 
 ---
 
