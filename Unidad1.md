@@ -7,7 +7,7 @@
 
 # 📘 Recapitulación: Lógica Proposicional
 
--[Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)  
+-[📦Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)  
 -[¿Qué es la lógica proposicional?](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#1-qu%C3%A9-es-la-l%C3%B3gica-proposicional)  
 -[¿Qué es una proposición?](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#2-qu%C3%A9-es-una-proposici%C3%B3n)  
 -[Conectores lógicos](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#3-conectores-l%C3%B3gicos-s%C3%ADmbolos-y-significado)  
@@ -16,8 +16,8 @@
 -[Tautología, contradicción y contingencia](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#6-tautolog%C3%ADa-contradicci%C3%B3n-y-contingencia)  
 -[Leyes/identidades fundamentales de las proposiciones](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#7-leyesidentidades-fundamentales-de-las-proposiciones)  
 -[Reglas de inferencia](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#8-reglas-de-inferencia-formas-v%C3%A1lidas-de-razonamiento)  
--[Ejemplo corto](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#9-ejemplo-corto-deducci%C3%B3n)
--[Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)   
+-[Ejemplo corto](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#9-ejemplo-corto-deducci%C3%B3n)  
+-[📦Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)   
 
 ---
 
