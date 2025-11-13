@@ -250,14 +250,13 @@ Derivación:
 
 ## 📦 Tareas Entregadas  
 
-  [Ver carpeta anexa en Google Drive](https://drive.google.com/drive/folders/1plFObZEaFtJjhQ2voPTFkw8JbeFjyK45?usp=sharing)
+  [Ver carpeta anexa en Google Drive](https://drive.google.com/drive/folders/1plFObZEaFtJjhQ2voPTFkw8JbeFjyK45?usp=sharing)  
 
-### Trabajos de Aprendizaje en Contacto con el Docente (ACD)
-- ✅ [**APE 1: Resolución de Ejercicios**](https://drive.google.com/file/d/1D93A9cEgeQfb8lLbzO9sqaAnZbXsEB1y/view?usp=sharing)
-
-## Trabajos de Aprendizaje Practico Experimental (APE)
-- ✅ [**ACD 1: Proposiciones y Tablas de Verdad**](https://docs.google.com/presentation/d/10VQOUdrHfdM3vqs_OVxFbRKs7bCvAE6y/edit?usp=sharing&ouid=107467171818254633929&rtpof=true&sd=true)
-- ✅ [**ACD 2: Leyes de Proposiciones y Reglas de Inferencia**](https://docs.google.com/presentation/d/1tGq99rhMM4vlq9yb5BiJlqFFbqPcsTwl/edit?usp=sharing&ouid=107467171818254633929&rtpof=true&sd=true)   
+## Trabajos de Aprendizaje en Contacto con el Docente (ACD)
+- ✅ [**APE 1: Resolución de Ejercicios**](https://drive.google.com/file/d/1D93A9cEgeQfb8lLbzO9sqaAnZbXsEB1y/view?usp=sharing)  
+## Trabajos de Aprendizaje Practico Experimental (APE)  
+- ✅ [**ACD 1: Proposiciones y Tablas de Verdad**](https://docs.google.com/presentation/d/10VQOUdrHfdM3vqs_OVxFbRKs7bCvAE6y/edit?usp=sharing&ouid=107467171818254633929&rtpof=true&sd=true)  
+- ✅ [**ACD 2: Leyes de Proposiciones y Reglas de Inferencia**](https://docs.google.com/presentation/d/1tGq99rhMM4vlq9yb5BiJlqFFbqPcsTwl/edit?usp=sharing&ouid=107467171818254633929&rtpof=true&sd=true)     
 ## Trabajos de Aprendizaje Autonomo (AA)
 - ✅ [**AA 1: Lectura y Ejercicios**](https://drive.google.com/file/d/1kuGYZvN85Z9gIRCfdrMqun00SHvuIw_d/view?usp=sharing)  
   
