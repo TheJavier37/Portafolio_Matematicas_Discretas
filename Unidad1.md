@@ -278,6 +278,8 @@ Derivación:
 - ✅ [**AA 1: Lectura y Ejercicios**](https://drive.google.com/file/d/1kuGYZvN85Z9gIRCfdrMqun00SHvuIw_d/view?usp=sharing)  
 - 👁️ [**AA 2: Portafolio Actual**](https://github.com/TheJavier37/Portafolio_Matematicas_Discretas/blob/main/index.md)  
 
+## Recuperación Unidad 1
+- 🔰 [**Recuperación: 30 Ejercicios**](https://drive.google.com/file/d/1hWoP92XKxH5pQtinRCz6OamY3CZAetcp/view?usp=sharing)  
 
 ---
   
